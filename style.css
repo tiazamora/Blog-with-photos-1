@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: #f0e8c5
+}
+div{
+    margin-top: 15px;
+}
+.image-sec{
+    display: flex;
+    justify-content: center;
+}
+.sec-st{
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: white;
+}
